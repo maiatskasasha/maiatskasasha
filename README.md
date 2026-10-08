@@ -1,23 +1,23 @@
-# Про мене
-## Освіта
-Закінчила повну середню освіту на відмінно. Навчаюся на 3 курсі у КНЕУ ім. Вадима Гетьмана по спеціальності "Системний аналіз". Голова профспілки факультету: працювала зі студентами, допомагала першокурсникам адаптуватися до навчання, вирішувала організаційні питання факультету. Створювала театральні постановки та хореографічні номери, представляла факультет у складі творчої команди, поєднуючи це з навчанням на відмінно.
-## Досвід роботи
-### Тім-лід у дитячому таборі
-Здійснювала повний супровід дітей протягом зміни: організовувала щоденне життя загону, допомагала дітям у побутових та організаційних питаннях, а також контролювала розклад. Самостійно розробляла та проводила програму дозвілля для дітей - активності, ігри, командні завдання, - враховуючи вік, інтереси та рівень залученості учасників, що розвинуло креативність та вміння швидко адаптувати програму під ситуацію. Знаходила індивідуальний підхід до дітей, допомагала їм адаптуватися до нового середовища та підтримувала комфортну атмосферу в загоні. Ефективно взаємодіяла в команді з напарниками-вожатими, які часто змінювалися, швидко налагоджуючи спільну роботу з новими людьми — це зміцнило комунікабельність та гнучкість.
-### Сильні сторони
-- Наполегливість
-- Висока працездатність
-- Тайм-менеджмент
-- Сумлінність
-- Дисциплінованість
-- Адаптивність
-- Чесність
-- Креативність
-- Продуктивність
-## Знання мов
-1. **Українька** - вільно
-2. **Англійська** - вільно
-3. **Німецька** - початковий рівень
+# About me
+## Education
+I completed my  full general secondary education with honors. I am currently a third-year student majoring in Systems Analysis at Vadym Hetman Kyiv National Economic University (KNEU). As the head of the faculty student union, I worked with students, helped first-year students adjust to university life, and managed organizational matters for the faculty. I also created theatrical productions and choreographed performances, representing the faculty as part of the creative team while maintaining excellent academic standing.
+## Work experience 
+### Team leader at a children`s camp
+Provided comprehensive supervision for children throughout the camp session: managed the group's daily routine, assisted with practical and organizational matters, and oversaw the schedule. Independently developed and led recreational programs—including activities, games, and team challenges—tailored to the participants' ages, interests, and engagement levels, thereby fostering creativity and the ability to quickly adapt the program to changing circumstances. I found an individualized approach to the children, helping them adapt to the new environment and maintaining a comfortable atmosphere within the group. I collaborated effectively with fellow counselors—who changed frequently—and quickly established teamwork with new people, which strengthened my communication skills and adaptability.
+### Strong points
+- Persistence
+- High work capacity
+- Time management
+- Conscientiousness
+- Discipline
+- Adaptability
+- Honesty
+- Creativity
+- Productivity
+## Language Skills
+1. **Ukrainian** - fluently
+2. **English** - C1
+3. **German** - begginer
 
 
 
